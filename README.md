@@ -1,4 +1,4 @@
-<h2>**MY SIMPLE PROGRAM**2</h2>  
+<h2>MY SIMPLE PROGRAM</h2>  
 Ariadne Rincon  
 CWID: 888057163  
 
